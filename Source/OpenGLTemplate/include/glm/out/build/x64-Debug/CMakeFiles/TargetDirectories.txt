@@ -1,0 +1,3 @@
+C:/Users/minna/Documents/Computer Graphics/Graphics_spaceRun/Source/OpenGLTemplate/include/glm/out/build/x64-Debug/CMakeFiles/glm.dir
+C:/Users/minna/Documents/Computer Graphics/Graphics_spaceRun/Source/OpenGLTemplate/include/glm/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/minna/Documents/Computer Graphics/Graphics_spaceRun/Source/OpenGLTemplate/include/glm/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

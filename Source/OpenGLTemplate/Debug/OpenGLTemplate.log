@@ -1,0 +1,10 @@
+﻿  Game.cpp
+C:\Users\minna\Documents\Computer Graphics\Graphics_spaceRun\Source\OpenGLTemplate\Game.cpp(404,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\minna\Documents\Computer Graphics\Graphics_spaceRun\Source\OpenGLTemplate\Game.cpp(522,45): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\minna\Documents\Computer Graphics\Graphics_spaceRun\Source\OpenGLTemplate\Game.cpp(560,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\minna\Documents\Computer Graphics\Graphics_spaceRun\Source\OpenGLTemplate\Game.cpp(671,35): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\minna\Documents\Computer Graphics\Graphics_spaceRun\Source\OpenGLTemplate\Game.cpp(694,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\minna\Documents\Computer Graphics\Graphics_spaceRun\Source\OpenGLTemplate\Game.cpp(708,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\minna\Documents\Computer Graphics\Graphics_spaceRun\Source\OpenGLTemplate\Game.cpp(914,35): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\minna\Documents\Computer Graphics\Graphics_spaceRun\Source\OpenGLTemplate\Game.cpp(918,35): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  OpenGLTemplate.vcxproj -> C:\Users\minna\Documents\Computer Graphics\Graphics_spaceRun\Source\Debug\OpenGLTemplate.exe
